@@ -1,0 +1,1 @@
+include ':FragmentDinamic',  ':FragmentStatic', ':IntentImplicit', ':intentexplicit'

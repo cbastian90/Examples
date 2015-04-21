@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Examples</string>
+    <string name="activity_name">Fragment static</string>
+    <string name="fragmentA">Fragment A!</string>
+    <string name="fragmentB">Fragment B!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
